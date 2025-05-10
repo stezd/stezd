@@ -1,6 +1,6 @@
 # stezd (Aldi Pramudya)
 
-I do back-end stuff, a little bit of front-end stuff, and video editing.\
+I do back-end stuff, a little bit of front-end stuff, and video stuff.\
 Student @ [IPB University](https://ipb.ac.id) majoring in [Computer Science](https://ipb.ac.id)\
 Staff of Education @ [Himalkom IPB](https://github.com/HimalkomIPB)
 
