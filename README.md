@@ -18,6 +18,5 @@ Things I did:
 ---
 ## Random Stuff
 <p>
-<img src=https://raw.githubusercontent.com/stezd/stezd/refs/heads/main/public/scaramouche-wanderer.gif width=240 height=240 alt="Wanderer" />
 <img src=https://raw.githubusercontent.com/stezd/stezd/refs/heads/main/public/scarameow-breakdance.gif height=240 alt=KucingBreakdens />
 </p>
