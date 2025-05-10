@@ -16,7 +16,6 @@ Things I did:
 </p>
 
 ---
-## Scarameow
 <p>
 <img src=https://raw.githubusercontent.com/stezd/stezd/refs/heads/main/public/scarameow-breakdance.gif height=240 alt=KucingBreakdens />
 </p>
