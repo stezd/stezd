@@ -13,9 +13,8 @@ I teleport JSONs from one place to another.
 - The Cursed Art of REST.
 - Summoning data from the place you cannot see.
 - Analytical Mathematical Statistical Methodical Analysis.
----
 
-### Magics that I use
+### Magics I utilise
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql,mongodb,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
