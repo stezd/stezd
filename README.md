@@ -1,16 +1,16 @@
-## Hi there 👋
+# stezd (Aldi Pramudya)
 
-<!--
-**stezd/stezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do back-end stuff, little bit of front-end stuff, and video editing.\
+Student @ [IPB University](https://ipb.ac.id) majoring in [Computer Science](https://ipb.ac.id)\
+Staff of Education @ [Himalkom IPB](https://github.com/HimalkomIPB)
 
-Here are some ideas to get you started:
+Things I did:
+- Project Lead and Back-end dev @ [IT-Today 2025](https://github.com/pusdatin-ittoday/ittod-web-api)
+- Project Lead and Back-end @ [IQRA](https://github.com/dev-IQRA/iqra-backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stuff
+<p style="text-align: center;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql,docker,postman,react,tailwind,vite,latex,pr,ae"  alt=""/>
+  </a>
+</p>
