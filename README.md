@@ -1,6 +1,6 @@
 # stezd (Aldi Pramudya)
 
-I move JSONs from one place to another. 
+I teleport JSONs from one place to another.
 
 ### "Experiences"
 - Supreme Architect of recursive HTTP enlightenment and quantum database stability for national digital festivities via [IT-TODAY 2025](https://github.com/pusdatin-ittoday/ittod-web-api).
@@ -8,7 +8,7 @@ I move JSONs from one place to another.
 
 ---
 
-## Thingamajigs One Like To Use
+## Magics that I use
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql,mongodb,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
@@ -22,7 +22,7 @@ I move JSONs from one place to another.
 - Writing effective conditional statement.
 - The Cursed Art of REST.
 - Summoning data from the place you cannot see.
-- Analytical Analytical Analysis.
+- Analytical Mathematical Statistical Methodical Analysis.
 ---
 <p>
 <img src=https://raw.githubusercontent.com/stezd/stezd/refs/heads/main/public/scarameow-breakdance.gif height=240 alt=KucingBreakdens />
