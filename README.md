@@ -11,7 +11,7 @@ Highlights of my work:
 ## Technologies I Use
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
+    <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql,mongodb,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
   </a>
 </p>
 
