@@ -4,9 +4,9 @@ I do back-end stuff, a little bit of front-end stuff, and video editing.\
 Student @ [IPB University](https://ipb.ac.id) majoring in [Computer Science](https://ipb.ac.id)\
 Staff of Education @ [Himalkom IPB](https://github.com/HimalkomIPB)
 
-Things I did:
-- Project Lead and Back-end dev @ [IT-Today 2025](https://github.com/pusdatin-ittoday/ittod-web-api)
-- Project Lead and Back-end @ [IQRA](https://github.com/dev-IQRA/iqra-backend)
+Highlights of my work:
+- Led and developed the back-end for [IT-Today 2025](https://github.com/pusdatin-ittoday/ittod-web-api)
+- Led and developed the back-end for [IQRA](https://github.com/dev-IQRA/iqra-backend)
 
 ## Technologies I Use
 <p style="text-align: center;">
