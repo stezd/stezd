@@ -9,9 +9,9 @@ I teleport JSONs from one place to another.
 ## Currently Learning
 - Art of reaching a fullfilling life.
 - Oxygen to carbon dioxide conversion.
-- Writing effective conditional statement.
+- Writing sophisticated conditional statement.
 - The Cursed Art of REST.
-- Summoning data from the place you cannot see.
+- Summoning data from a place you cannot fathom.
 - Analytical Mathematical Statistical Methodical Analysis.
 
 <p style="text-align: center;">
