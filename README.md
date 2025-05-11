@@ -12,6 +12,7 @@ I teleport JSONs from one place to another.
 - Writing sophisticated conditional statement.
 - The Cursed Art of REST.
 - Summoning data from a place you cannot fathom.
+- Putting stuff into "buckets".
 - Analytical Mathematical Statistical Methodical Analysis.
 
 <p style="text-align: center;">
