@@ -18,7 +18,7 @@ I teleport JSONs from one place to another.
 
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql,mongodb,cloudflare,aws,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,elysia,prisma,postgresql,mysql,mongodb,cloudflare,aws,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
   </a>
 </p>
 
