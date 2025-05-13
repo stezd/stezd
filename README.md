@@ -13,6 +13,7 @@ I teleport JSONs from one place to another.
 - The Cursed Art of REST.
 - Summoning data from a place you cannot fathom.
 - Putting stuff into "buckets".
+- Searching for stuff in "buckets"
 - Analytical Mathematical Statistical Methodical Analysis.
 
 <p style="text-align: center;">
