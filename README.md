@@ -25,5 +25,10 @@ I teleport JSONs from one place to another.
 ---
 
 <p>
+<img src=https://raw.githubusercontent.com/stezd/stezd/refs/heads/main/public/pov%20youre%20my%20laptop.png alt=pov />
+</p>
+
+<p>
 <img src=https://raw.githubusercontent.com/stezd/stezd/refs/heads/main/public/scarameow-breakdance.gif height=240 alt=KucingBreakdens />
 </p>
+
