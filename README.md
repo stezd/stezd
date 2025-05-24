@@ -1,6 +1,6 @@
 # stezd (Aldi Pramudya)
 
-I teleport JSONs from one place to another.
+I teleport JSONs from one place to another. I love my JSONs.
 
 ## "Experiences"
 - Supreme Architect of recursive HTTP enlightenment and quantum database stability for national digital festivities via [IT-TODAY 2025](https://github.com/pusdatin-ittoday/ittod-web-api).
