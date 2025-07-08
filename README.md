@@ -14,11 +14,12 @@ I teleport JSONs from one place to another. I love my JSONs.
 - Summoning data from a place you cannot fathom.
 - Putting stuff into "buckets".
 - Searching for stuff in "buckets"
+- A Monad is just a Monoid in the Category of Endofunctors.
 - Analytical Mathematical Statistical Methodical Analysis.
 
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,elysia,prisma,postgresql,mysql,mongodb,cloudflare,aws,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
+    <img src="https://skillicons.dev/icons?i=scala,haskell,nodejs,bun,express,elysia,prisma,postgresql,mysql,mongodb,cloudflare,aws,docker,postman,react,tailwind,vite,obsidian,latex,pr,ae"  alt=""/>
   </a>
 </p>
 
